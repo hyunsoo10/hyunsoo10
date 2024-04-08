@@ -65,13 +65,13 @@
 ## :question: GitHub
 
 ![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyunsoo10&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsoo10&layout=compact&theme=onedark) 
+
     
 
 ## :question: Algorithm  
  </a>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunsoo31)](https://solved.ac/s4253541)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunsoo31)](https://solved.ac/hyunsoo31)<br/>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=hyunsoo10&theme=ambient-gradient&hide_border=true&locale=fr&date_format=%5BY.%5Dn.j&card_width=600)](https://git.io/streak-stats)-->
 </div>
