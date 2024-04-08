@@ -62,12 +62,12 @@
 <br>
 <div align=center>
 
-## :question: GitHub
+## 🎒 GitHub
 
 ![*'s github stats](https://github-readme-stats.vercel.app/api?username=hyunsoo10&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsoo10&layout=compact&theme=onedark&hide=php) 
 
-## :question: Algorithm  
+## 🌱  Algorithm  
  </a>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunsoo31)](https://solved.ac/hyunsoo31)<br/>
